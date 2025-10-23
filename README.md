@@ -22,7 +22,7 @@ git clone https://github.com/ItalloOliveira01/frequencia-de-pedido-java.git
 cd frequencia-de-pedido-java
 
 
-🧠 Autor
+## 🧠 Autor
 Ítallo Gabriel de Oliveira Correia
 
 💼 Estudante de Análise e Desenvolvimento de Sistemas
