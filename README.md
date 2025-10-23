@@ -20,11 +20,11 @@ Projeto simples em Java que identifica e exibe a frequência de pedidos ou núme
 ```bash
 git clone https://github.com/ItalloOliveira01/frequencia-de-pedido-java.git
 cd frequencia-de-pedido-java
+``
 
-
-## 🧠 Autor
+# Autor
 Ítallo Gabriel de Oliveira Correia
 
-💼 Estudante de Análise e Desenvolvimento de Sistemas
+Estudante de Análise e Desenvolvimento de Sistemas
 
-📍 Focado em Java, lógica de programação e desenvolvimento de software limpo.
+Focado em Java, lógica de programação e desenvolvimento de software limpo.
